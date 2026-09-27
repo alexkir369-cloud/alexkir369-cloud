@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Aleksandr Kireev 👋
 
-<!--
-**alexkir369-cloud/alexkir369-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**UX/UI Product Designer | AI-Assisted Web Developer**
 
-Here are some ideas to get you started:
+From idea to working product.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Published Projects
+
+- **North & Bean Coffee Shop** — Responsive coffee shop website built with React and TypeScript.  
+  [Live website](https://alexkir369-cloud.github.io/north-bean-coffe/) | [GitHub repository](https://github.com/alexkir369-cloud/north-bean-coffe)
+
+## 🛠 Projects in Development
+
+- **TRIBUILD** — Construction workwear e-commerce website.
+- **DDA — Dublin Digital Academy** — AI-powered professional learning platform.
+
+## 📚 Planned Learning Projects
+
+- **Taxi Booking App** — Mobile application.
+- **B2B SaaS Dashboard** — Business web application.
+- **AI Productivity Product** — AI-powered productivity application.
+
+## 📍 Location
+
+Dublin, Ireland
