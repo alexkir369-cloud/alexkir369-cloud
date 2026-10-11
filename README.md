@@ -1,25 +1,27 @@
-# Hi, I'm Aleksandr Kireev 👋
+# Aera — Autonomous taxi in Dublin
 
-**UX/UI Product Designer | AI-Assisted Web Developer**
+Marketing site for **Aera**, a concept autonomous taxi app for Dublin, Ireland.
 
-From idea to working product.
+## Stack
 
-## 🚀 Published Projects
+- React + TypeScript
+- Vite
+- Framer Motion
 
-- **North & Bean Coffee Shop** — Responsive coffee shop website built with React and TypeScript.  
-  [Live website](https://alexkir369-cloud.github.io/north-bean-coffe/) | [GitHub repository](https://github.com/alexkir369-cloud/north-bean-coffe)
+## Develop
 
-## 🛠 Projects in Development
+```bash
+npm install
+npm run dev
+```
 
-- **TRIBUILD** — Construction workwear e-commerce website.
-- **DDA — Dublin Digital Academy** — AI-powered professional learning platform.
+## Build
 
-## 📚 Planned Learning Projects
+```bash
+npm run build
+npm run preview
+```
 
-- **Taxi Booking App** — Mobile application.
-- **B2B SaaS Dashboard** — Business web application.
-- **AI Productivity Product** — AI-powered productivity application.
+## Brand
 
-## 📍 Location
-
-Dublin, Ireland
+Aera is a self-driving ride service imagined for Dublin’s streets — from the airport and Docklands to the city centre — with a calm Atlantic visual language and an illustrated Liffey waterfront hero.
